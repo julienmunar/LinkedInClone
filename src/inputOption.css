@@ -1,0 +1,14 @@
+.inputOption{
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    margin-top:15px;
+    padding: 10px;
+    color: grey;
+
+}
+
+.inputOption>h4{
+margin-left: 5px;
+
+}
